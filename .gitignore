@@ -1,0 +1,10 @@
+.env
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+*.pyc
+part_a_fraud/data/creditcard.csv
+part_b_complaint/outputs/
+raw_cfpb.csv
